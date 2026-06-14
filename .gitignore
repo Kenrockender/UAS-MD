@@ -1,0 +1,15 @@
+# Dataset (not needed at runtime; not published)
+data_A.csv
+
+# Local MLflow tracking store
+mlflow.db
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
